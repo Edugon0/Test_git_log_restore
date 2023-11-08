@@ -7,3 +7,5 @@
 *eu estou aprendendo como usa o git com o github.
 
 * Hello World!
+
+* alguma coisa para fazer no final de semana?
