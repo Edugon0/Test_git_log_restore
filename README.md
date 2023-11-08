@@ -2,6 +2,6 @@
 
 ## salvando alteração no Git
 
-*oi amigo
-*comando git push
-*eu estou aprendendo como usa o git com o github
+*oi amigo.
+*comando git push.
+*eu estou aprendendo como usa o git com o github.
